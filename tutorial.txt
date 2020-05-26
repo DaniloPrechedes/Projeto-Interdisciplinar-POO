@@ -1,0 +1,2 @@
+copiar o arquivo figuras.dat no diretório
+C:/temp/
